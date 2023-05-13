@@ -10,6 +10,8 @@ This repository is contains the code for the [Node PDFKit video tutorial](https:
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
+For updates, please follow [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
+
 ## Running this project
 
 1. `npm i`
